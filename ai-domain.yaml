@@ -1,0 +1,40 @@
+payload:
+  # OpenAI / ChatGPT
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
+  # Anthropic / Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+  # Google AI / Gemini
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,appspot.com
+
+  # Microsoft / Copilot
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,bing.com
+
+  # Meta AI
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,facebook.com
+
+  # Perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
+
+  # xAI / Grok
+  - DOMAIN-SUFFIX,x.ai
+
+  # Stability / Midjourney
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,midjourney.com
+
+  # HuggingFace
+  - DOMAIN-SUFFIX,huggingface.co
+
+  # Common AI CDNs
+  - DOMAIN-SUFFIX,cloudflareai.com
